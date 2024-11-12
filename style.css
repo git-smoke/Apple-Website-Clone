@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
 
-
+/* Defaults */
 * {
   margin: 0;
   padding: 0;
@@ -9,6 +9,7 @@
 }
 
 /* Header Styles*/
+
 header {
   width: 100%;
   background-color: rgb(95, 95, 95);
